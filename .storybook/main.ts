@@ -10,6 +10,7 @@ const config: StorybookConfig = {
   },
   features: {
     sidebarOnboardingChecklist: false,
+    changeDetection: false,
   },
 };
 export default config;
